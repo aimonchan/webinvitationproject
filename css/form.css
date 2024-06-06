@@ -1,0 +1,48 @@
+/* Change the background color of the form */
+.freebirdFormviewerViewFormContent {
+    background-color: #f2f2f2;
+  }
+  
+  /* Change the font family and size of the form labels */
+  .freebirdFormviewerViewFormItemLabeledInputContainer > .freebirdFormviewerViewItemLabeledInput > .freebirdFormviewerViewItemLabeledInputInput > .quantumWizTextinputPaperinputInputContainer > .quantumWizTextinputPaperinputInputElement {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Change the border style of the form input fields */
+  .freebirdFormviewerViewFormItemContainer > .freebirdFormviewerViewItemLabeledInputContainer > .freebirdFormviewerViewItemLabeledInput > .freebirdFormviewerViewItemLabeledInputInput > .quantumWizTextinputPaperinputInputContainer > .quantumWizTextinputPaperinputInputElement {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Change the font family and size of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Change the background color of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    background-color: #4CAF50;
+  }
+  
+  /* Change the text color of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    color: #fff;
+  }
+  
+  /* Change the border style of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    border: none;
+    border-radius: 5px;
+  }
+  
+  /* Change the padding of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    padding: 10px 20px;
+  }
+  
+  /* Change the font weight of the form buttons */
+  .freebirdFormviewerViewFormActionsContainer > .freebirdFormviewerViewContainer > .freebirdThemedFormActionContainer > .freebirdFormviewerFormPageActionContainer > .freebirdFormviewerFormPageActionItem > .freebirdFormviewerFormPageActionButtonContainer > .freebirdFormviewerFormPageActionButton {
+    font-weight: bold;
+  }

@@ -1,0 +1,40 @@
+https://docs.google.com/forms/d/e/1FAIpQLSfsSVVPc-44EE9qDncEfXSO2FeSGjL7gVFuoeJ4rg8Ooo5hzw/formResponse
+
+
+entry.1075020564=999-name
+
+entry.671579082=999-email
+
+entry.999404344=999-guest
+
+entry.2038123171=999-message
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSesiIc4JjSJZJbZ8UmjD7qeiK9nY5Z3Sxw6w2EKLMs721L-0A/formResponse
+
+entry.336717029=999-name
+
+entry.112536225=999-email
+
+entry.127747858=1
+
+entry.239890511=I'm+Attending
+
+entry.645624797=999-message
+
+
+<iframe name="hiddenConfirm" id="hiddenConfirm" style="display:none;" onload="if(submitted){window.location='#contact'; submitted=false;}"></iframe>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSesiIc4JjSJZJbZ8UmjD7qeiK9nY5Z3Sxw6w2EKLMs721L-0A/formResponse" method="post" target="hiddenConfirm" onsubmit="submitForm();">
+  <!-- form fields here -->
+</form>
+
+<script>
+  function submitForm() {
+    submitted = true;
+    document.getElementById("name").value = "";
+    document.getElementById("email").value = "";
+    document.getElementById("message").value = "";
+    // clear other form fields as needed
+    return true;
+  }
+</script>
